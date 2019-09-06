@@ -61,6 +61,8 @@ to obtain the vertical and radial component. Then edit the start_measure.py rout
 ###  References
 Berbellini, A., Morelli, A., Ferreira, A.M.G.; Ellipticity of Rayleigh waves in basin and hard-rock sites in Northern Italy, Geophysical Journal International, Volume 206, Issue 1, July, 2016, Pages 395–407, https://doi.org/10.1093/gji/ggw159
 
+Berbellini, A., Morelli, A., & Ferreira, A. M. G., 2017. Crustal structure of Northern Italy from the ellipticity of Rayleigh Waves, Physics of the Earth and Planetary Interiors, 265, 1 – 14, https://doi.org/10.1016/j.pepi.2016.12.005
+
 M. Beyreuther, R. Barsch, L. Krischer, T. Megies, Y. Behr and J. Wassermann (2010)
 ObsPy: A Python Toolbox for Seismology SRL, 81(3), 530-533 DOI: 10.1785/gssrl.81.3.530
 
