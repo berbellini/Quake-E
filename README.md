@@ -5,7 +5,7 @@
 Created by Andrea Berbellini, September 2019
 For questions, bugs, comments please email me: andrea.berbellini@ingv.it 
 
->>> Introduction
+###  Introduction
 The goal of this package is to measure Rayleigh wave ellipticity from earthquake data,
 as in Berbellini et al. 2016.
 
@@ -13,15 +13,15 @@ If used, please cite us:
 Berbellini, A., Morelli, A., Ferreira, A.M.G.; Ellipticity of Rayleigh waves in basin and hard-rock sites in Northern Italy, Geophysical Journal International, Volume 206, Issue 1, July, 2016, Pages 395–407, https://doi.org/10.1093/gji/ggw159
 
 
->>> Prerequisites
+###  Prerequisites
 - Python2.7
 - Obspy1.1.0
 - Matplotlib2.2.3
 
->>> Installation
+###  Installation
 The code does not need to be installed or compiled, since it is completelly written in Python2.7
 
->>> Run a measurement
+###  Run a measurement
 The code comes with a dataset of 804 teleseisms recorded by station GIMEL (St. Georges, Gimel, Switzerland). 
 Data have been provided by the Swiss Seismological Service via ORFEUS. 
 The seismograms are ready-to-use, already corrected for the instrument response and rotated toward the event 
@@ -52,13 +52,13 @@ ellipticity curve. It also compare the results obtained in this run with previou
 > python plot_histograms.py
 The resulting histogram will be stored in the same folder.
 
->>> Changing dataset
+###  Changing dataset
 In order to use your own measurements, store the seismograms in .sac format, rotated toward the event epicentre in order 
 to obtain the vertical and radial component. Then edit the start_measure.py routine accordingly.
 
 
 
->>> References
+###  References
 Berbellini, A., Morelli, A., Ferreira, A.M.G.; Ellipticity of Rayleigh waves in basin and hard-rock sites in Northern Italy, Geophysical Journal International, Volume 206, Issue 1, July, 2016, Pages 395–407, https://doi.org/10.1093/gji/ggw159
 
 M. Beyreuther, R. Barsch, L. Krischer, T. Megies, Y. Behr and J. Wassermann (2010)
