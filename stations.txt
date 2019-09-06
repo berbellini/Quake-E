@@ -1,0 +1,3 @@
+Cod	Loc		Lat	Lon	Elev	Chan	Network
+------------------------------------------------------------------
+GIMEL	StGeorges	46.5336	6.2654	1121.0	HH	CH
